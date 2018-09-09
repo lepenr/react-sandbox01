@@ -32,4 +32,4 @@ class Counter extends Component {
 }
 
 export default Counter;
-//56:32 https://www.youtube.com/watch?v=Ke90Tje7VS0
+//fi rst 56:32 https://www.youtube.com/watch?v=Ke90Tje7VS0
